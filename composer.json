@@ -1,7 +1,8 @@
 {
     "name": "amazon-mws-unofficial/marketplace-web-service-orders",
+	"description": "Amazon MWS code base moved into composer package",
     "type": "library",
-    "license": "Apache License Version 2.0",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-0": {
             "": "src/"
